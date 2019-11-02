@@ -1,0 +1,7 @@
+C:\Users\Саша\source\repos\сишурп1\сишурп1\bin\Debug\сишурп1.exe.config
+C:\Users\Саша\source\repos\сишурп1\сишурп1\bin\Debug\сишурп1.exe
+C:\Users\Саша\source\repos\сишурп1\сишурп1\bin\Debug\сишурп1.pdb
+C:\Users\Саша\source\repos\сишурп1\сишурп1\obj\Debug\сишурп1.csprojAssemblyReference.cache
+C:\Users\Саша\source\repos\сишурп1\сишурп1\obj\Debug\сишурп1.csproj.CoreCompileInputs.cache
+C:\Users\Саша\source\repos\сишурп1\сишурп1\obj\Debug\сишурп1.exe
+C:\Users\Саша\source\repos\сишурп1\сишурп1\obj\Debug\сишурп1.pdb
